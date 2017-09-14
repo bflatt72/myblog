@@ -1,27 +1,25 @@
 ---
-  name: "Your Name"
-  position: "Your Position"
-  company: "Your Company"
-  location: "Your City, Your State"
-  email: "you@somedomain.com"
-  gravatar: "http://api.adorable.io/avatars/300/abott@adorable.png"
+  name: "Brian Flatt"
+  location: "Knoxville, TN"
+  email: "bflatt72@gmail.com"
+  gravatar: "https://s.gravatar.com/avatar/f6302426a8a4a48e89604a0b4c897cbd?s=250"
   bio: |
-    Your Short Bio goes here.
+    Just another dude. Excited about learning Web Development and doing all that I can to better myself in all aspects of life.
   #activate the social buttons you like by removing the comment
   social:
     google:
-      url: "http://plus.google.com/+You/"
-      text: "+You"
-      btnClass: "btn-google"
-      logo: "fa-google"
+    #  url: "http://plus.google.com/+You/"
+    #  text: "+You"
+    # btnClass: "btn-google"
+    # logo: "fa-google"
     # facebook:
     #  url: "http://facebook.com/yourid"
     #  text: "/yourid"
     #  btnClass: "btn-facebook"
     #  logo: "fa-facebook"
     twitter:
-      url: "http://twitter.com/yourid"
-      text: "/yourid"
+      url: "http://twitter.com/BrianFlatt72"
+      text: "/BrianFlatt72"
       btnClass: "btn-twitter"
       logo: "fa-twitter"
     # linkedin:
@@ -30,15 +28,15 @@
     #   btnClass: "btn-linkedin"
     #   logo: "fa-linkedin"
     github:
-      url: "http://github.com/yourid"
-      text: "/yourid"
+      url: "http://github.com/bflatt72"
+      text: "/bflatt72"
       btnClass: "btn-github"
       logo: "fa-github"
-    stackoverflow:
-      url: "http://stackoverflow.com/users/youruserid/yourid"
-      text: "/yourid"
-      btnClass: "btn-stackoverflow"
-      logo: "fa-stack-overflow"
+    # stackoverflow:
+    # url: "http://stackoverflow.com/users/youruserid/yourid"
+    # text: "/yourid"
+    # btnClass: "btn-stackoverflow"
+    # logo: "fa-stack-overflow"
     # soundcloud:
     #   url: "http://soundcloud.com/yourid"
     #   text: "/yourid"
