@@ -3,6 +3,7 @@ layout: post
 title: Teaching Myself Web Development
 date: 2017-09-13
 category: posts
+tags: general, about
 
 ---
 
@@ -11,7 +12,7 @@ category: posts
 
 This is the first time I've blogged in quite some time, but I want to keep a record of my learning outcomes as I teach myself web development over the next couple of years and to help reinforce concepts by creating a kind of permanent mind map. 
 
-
+<!--more--> 
 
 #### My history with Web Development
 
