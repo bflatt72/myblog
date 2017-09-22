@@ -14,7 +14,9 @@ tags: general, about, github
 
 
 Last night I contributed to my very first open source project on Github and it was such an amazing feeling that I want to talk a bit about it and walk through the steps involved. 
+
 <!--more--> 
+
 Backstory: I was searching on Github for people to follow and one person I was familiar with was [Ohans Emmanuel](https://github.com/ohansemmanuel). I knew that he writes great CSS guides and I had conversed with him briefly on Twitter about one of his paid guides. One of his free ones goes into detail about Flexbox and is entitled [Understanding Flexbox](https://github.com/ohansemmanuel/Understanding-Flexbox). As I was looking through this great resource on Github I happened to notice that many of the chapter links in the README.md file were not working. I said, "hmmm, this would be an easy fix, all Id have to do is correct the Markdown in the file. I wonder if he knows the chapter links aren't working." So I submitted an issue about it but instead of waiting for a response I figured I'd go ahead and fix it and if for some reason he didn't want me to or if there was a reason he wanted the links not working for now, all he'd have to do is not accept my pull request and not merge it. I had never contributed to anything on Github up to this point and was unsure of the etiqutte and all involved. So here was the process by which I fixed the links and submitted a pull request. 
 
 1. I went to the project page and forked the project by clicking the fork button. This made a branch of the project into my account. 
