@@ -1,3 +1,16 @@
+---
+layout: post
+title: How to Contribute to Open Source Projects on Github
+date: 2017-09-21
+category: posts
+tags: general, about, github
+
+---
+
+
+
+
+
 # How to Contribute to Open Source Projects on Github
 
 Last night I contributed to my very first open source project on Github and it was such an amazing feeling that I want to talk a bit about it and walk through the steps involved. 
