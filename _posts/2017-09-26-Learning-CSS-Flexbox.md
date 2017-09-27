@@ -3,7 +3,11 @@ layout: post
 title: Learning CSS Flexbox and Progress Update
 date: 2017-09-26
 category: posts
-tags: tutorial CSS HTML Flexbox
+tags: 
+- Tutorial 
+- CSS 
+- HTML 
+- Flexbox
 
 ---
 
