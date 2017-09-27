@@ -115,7 +115,10 @@ Now we just set a flex container around the elements we want to layout and then 
 
 ```
 
-	Then in the CSS: 
+	
+Then in the CSS:
+
+
 
 ```
  	.nav {
