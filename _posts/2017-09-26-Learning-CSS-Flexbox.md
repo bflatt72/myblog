@@ -113,6 +113,8 @@ Now we just set a flex container around the elements we want to layout and then 
 		</ul>
 	</nav>
 
+```
+
 	Then in the CSS: 
 
 ```
