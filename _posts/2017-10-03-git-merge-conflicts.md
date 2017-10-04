@@ -10,7 +10,7 @@ tags: tutorial, blog
 
 In this post I am going to talk about my first git revert I did on one of my projects tonight after learning first hand about merge conflicts and not fully understanding what to do at the time. And then I will give a few updates on my Web Dev learning progress and where I'm going from here. 
 
-                                                           ### Merge Conflicts
+ ### Merge Conflicts
 
 So what happened was this. I had made a personal webpage project a week or so ago, my first one since learning HTML/CSS again after a few years. Then I created a branch called flex-box and I refactored the site and my Shaw Howe project using flexbox instead of inline-block and floats/clearfix. Great. <!--more--> All was well and I kept both branches for future reference. Last night I decided I was going to merge them and delete the flexbox branch, which I did. I got some merge errors but did what it said and I thought all was well.
 
@@ -47,7 +47,7 @@ Moral of the story. Be careful. Don't edit files on Github origin and local mast
 
 So that was funny but a learning experience. And what's really funny is that that is actually how we learn, by making mistakes and googling and learning. Thank goodness for Stack Overflow, huh? I don't think there's an issue I've ever come across that didn't pop up on stack overflow via a google search. 
 
-                                                        ### Updates
+ ### Updates
 
 I am also going to school at the local community college getting my 2 year degree in Computer Information Technology - Programming. I'm currently taking Intro to Statistics and Intro to Computer Programming and Logic, both online with all exams taken on campus. Have had 2 exams so far, one in each class and I got a 94 in Stats and 98 in Programming. The latter consisted mostly of computer technology history, some binary number conversions and analyzing what a particular assembly language program was doing and how it worked. I really enjoyed learning the basics of Assembly because it teaches you about memory and the hardware architecture of the chipset. Cool. 
 
